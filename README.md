@@ -1,5 +1,5 @@
 # POP909 Dataset for Music Arrangement Generation
-This is the dataset repository for the paper: POP909: A Pop-song Dataset for Music Arrangement Generation, in ISMIR 2020.
+This is the dataset repository for the paper: [POP909: A Pop-song Dataset for Music Arrangement Generation](https://arxiv.org/abs/2008.07142), in ISMIR 2020.
 
 ## Dataset Zip File Structure
 * index.xlsx: it contains a list describing the baisc information of each index folder/file (name, number of beats per measure, number of quavers per measure, and modify times)
